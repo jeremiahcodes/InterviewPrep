@@ -1,0 +1,20 @@
+Updated todo list
+
+From the project directory, run:
+
+```bash
+python3 100days/day1/main.py
+```
+
+Or, from inside the `day1` folder:
+
+```bash
+cd 100days/day1
+python3 main.py
+```
+
+It should print:
+
+```text
+Hi, PyCharm
+```
